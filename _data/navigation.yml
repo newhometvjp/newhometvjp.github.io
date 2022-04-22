@@ -11,6 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "Home"
+      url: https://newhometv.github.io
     - title: "Services"
       section: services
     - title: "Portfolio"
