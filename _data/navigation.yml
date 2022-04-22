@@ -14,17 +14,17 @@ en: &DEFAULT_EN
     - title: "Home"
       url: https://newhometv.github.io
     - title: "Services"
-      section: services
+      url: https://newhometv.github.io/#services
     - title: "Portfolio"
-      section: portfolio
+      url: https://newhometv.github.io/#portfolio
     - title: "About"
-      section: about
+      url: https://newhometv.github.io/#about
     - title: "Timeline"
-      section: timeline
+      url: https://newhometv.github.io/#timeline
     - title: "Team"
-      section: team
+      url: https://newhometv.github.io/#team
     - title: "Contact"
-      section: contact
+      url: https://newhometv.github.io/#contact
     - title: "Legal"
       url: https://newhometv.github.io/legal
 
