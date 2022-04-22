@@ -155,6 +155,8 @@ en: &DEFAULT_EN
         icon: "fab fa-linkedin-in"
       - url: https://instagram.com
         icon: "fab fa-instagram"
+      - mailto: info@newhome.club
+        icon: "fab fa-mail"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
