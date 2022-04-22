@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     - title: "Contact"
       section: contact
     - title: "Legal"
-      url: https://newhometv.github.io/legal.md
+      url: https://newhometv.github.io/legal
 
 en-US:
   <<: *DEFAULT_EN
