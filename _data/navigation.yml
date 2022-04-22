@@ -25,7 +25,7 @@ en: &DEFAULT_EN
       url: https://newhometv.github.io/#team
     - title: "Contact"
       url: https://newhometv.github.io/#contact
-    - title: "Legal"
+    - title: "Test"
       url: https://newhometv.github.io/testpage
 
 en-US:
