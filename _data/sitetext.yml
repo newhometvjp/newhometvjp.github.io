@@ -157,6 +157,22 @@ en: &DEFAULT_EN
         icon: "fab fa-instagram"
       - url: mailto:info@newhome.club
         icon: "fa fa-envelope-o"
+      - url: t.me/athen
+        icon: "fab fa-telegram"
+      - url: https://alipay.comm
+        icon: "fab fa-alipay"
+      - url: https://visa.com
+        icon: "fab fa-cc-visa"
+      - url: https://mastercard.com
+        icon: "fab fa-cc-mastercard"
+      - url: https://bitcoin.org
+        icon: "fab fa-bitcoin"
+      - url: https://ethereum.org
+        icon: "fab fa-ethereum"
+      - url: https://line.com
+        icon: "fab fa-line"
+      - url: https://wechat.com
+        icon: "fab fa-weixin"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
