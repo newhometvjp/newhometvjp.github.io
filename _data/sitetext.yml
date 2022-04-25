@@ -139,22 +139,22 @@ ja: &DEFAULT_JA
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "お問い合わせ"
+    text: ""
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    name: "名前*"
+    name-validation: "名前を入力してください"
+    email: "メールアドレス*"
+    email-validation: "メールアドレスを入力してください"
+    phone: "電話"
+    phone-validation: "電話を入力してください"
+    message: "メモ*"
+    message-validation: "メモを入力してください"
+    subject: "送信"
+    submit: "送信"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "プライバシーポリシー"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
