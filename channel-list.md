@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 番組表
 ---
 # NewHome番組表
