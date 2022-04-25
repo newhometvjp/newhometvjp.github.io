@@ -27,7 +27,7 @@ ja: &DEFAULT_JA
       url: https://newhometv.github.io/#contact
     - title: "Test"
       url: https://newhometv.github.io/testpage
-ja-JP
+ja-JP:
   <<: *DEFAULT_JA
 # en-US:
 #  <<: *DEFAULT_EN
