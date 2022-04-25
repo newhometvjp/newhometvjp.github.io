@@ -11,7 +11,7 @@
 # -----------------
 ja: &DEFAULT_JA
   nav:
-    - title: "Home"
+    - title: "ホーム"
       url: https://newhometv.github.io
     - title: "Services"
       url: https://newhometv.github.io/#services
@@ -25,8 +25,8 @@ ja: &DEFAULT_JA
       url: https://newhometv.github.io/#team
     - title: "Contact"
       url: https://newhometv.github.io/#contact
-    - title: "Test"
-      url: https://newhometv.github.io/testpage
+    - title: "番組表"
+      url: https://newhometv.github.io/channel-list
 ja-JP:
   <<: *DEFAULT_JA
 # en-US:
