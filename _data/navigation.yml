@@ -13,17 +13,17 @@ ja: &DEFAULT_JA
   nav:
     - title: "ホーム"
       url: https://newhometv.github.io
-    - title: "Services"
-      url: https://newhometv.github.io/#services
+    - title: "製品説明"
+      url: https://newhometv.github.io/#製品説明
     - title: "Portfolio"
       url: https://newhometv.github.io/#portfolio
-    - title: "About"
+    - title: "私たちに関しては"
       url: https://newhometv.github.io/#about
-    - title: "Timeline"
+    - title: "じかんじく"
       url: https://newhometv.github.io/#timeline
     - title: "Team"
       url: https://newhometv.github.io/#team
-    - title: "Contact"
+    - title: "お問い合わせ"
       url: https://newhometv.github.io/#contact
     - title: "番組表"
       url: https://newhometv.github.io/channel-list

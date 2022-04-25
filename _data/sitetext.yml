@@ -67,7 +67,7 @@ ja: &DEFAULT_JA
         year: "2019"
         desc: "(iOSのみ7日間録画)！iPhone/iPadの適応"
         image: assets/img/timeline/3.jpg
-        alt: image alt text
+        alt:
       - title: "Windows/Macの適応"
         year: "2021"
         desc: "30日録画! Windows/Macの適応"
@@ -88,16 +88,16 @@ ja: &DEFAULT_JA
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "Android"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
+      - title: "iOS"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
+      - title: "Windows"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
+      - title: "Mac OS"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
