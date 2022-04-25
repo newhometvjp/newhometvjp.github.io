@@ -17,18 +17,27 @@ ja: &DEFAULT_JA
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "製品説明"
+    text: "製品説明"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "1080P+H265"
+        desc: "NewHome は、業界最強の技術ソリューションである 1080P と H265 の複合技術を採用しています。非常に高い解像度を提供しながら、帯域幅の使用量を大幅に削減し、スタッタリングを大幅に削減し、視聴をより安定させます。"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "スピーディーなチャンネル変更、より速く、よりスムーズ"
+        desc: "インテリジェントな分類、正確なルート選択。バッファリング時間を短縮し、チャンネル変更時の遅延を解消。"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "30日間のルックバック機能 + 24時間タイムシフトと振り返り"
+        desc: "NewHome 番組は最大30日間の再生が可能で、24 時間以内のすべてのプログラムの時間シフトをサポートします。EPG は、素晴らしい瞬間を逃さないようにします。"
+        icon: fab fa-markdown
+      - title: "オンラインオンデマンド"
+        desc: "NewHome は日本の人気映画を提供しています。広告なし、制限なし、追加料金なし。"
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "4 つの主要なプラットフォームを完全にサポート"
+        desc: "NewHome は、Android、Apple iOS、Microsoft Windows、Apple Mac の 4 つのプラットフォームをサポートしています。市場のすべての主流デバイスをサポート。"
+        icon: fas fa-laptop
+      - title: "7日間の無料トライアル"
+        desc: "NewHome は 7 日間の無料トライアルを提供しています。お試し期間中は全チャンネル見放題、満足してからお支払い可能！"
         icon: fab fa-markdown
 
   portfolio:
@@ -69,9 +78,9 @@ ja: &DEFAULT_JA
     end: "継続的な <br> 最適化!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "私たちに関しては"
+    text: "私たちの目標"
+    body: "孤軍奮闘、単身赴任、またはご家族連れで海外でがんばる日本人企業戦士や留学生、また日本語を勉強されている現地の皆様へ！海外で、日本のテレビのある生活を始めませんか？あなたの海外生活を応援します！"
     section: about
 
   clients:
