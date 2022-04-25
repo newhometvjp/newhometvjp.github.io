@@ -84,6 +84,7 @@ ja: &DEFAULT_JA
     section: about
 
   clients:
+    title: "ダウンロード"
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
