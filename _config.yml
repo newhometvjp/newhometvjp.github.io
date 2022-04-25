@@ -17,15 +17,16 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : Newhome Net TV Official
+title      : Newhome Japan TV
 email      : info@newhome.club #this is also the email contact forms will go to
-description: "Newhome Net TV Official"
+description: "Newhome Japan TV - 海外で日本のネットテレビ"
 author     : Newhome
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
-locale: "en-US" # See available languages in _data/sitetext.yml
+locale: "ja-JP"
+#locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
   google: #Google Analytics tracking code here
