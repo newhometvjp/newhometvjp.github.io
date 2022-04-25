@@ -41,10 +41,10 @@ ja: &DEFAULT_JA
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "価格とパッケージ"
+    text: "あなたに合ったパッケージを選択してください"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "閉じる"
 
   timeline:
     title: "じかんじく"
@@ -165,7 +165,7 @@ ja: &DEFAULT_JA
       - url: https://instagram.com
         icon: "fab fa-instagram"
       - url: mailto:info@newhome.club
-        icon: "fa fa-envelope-o"
+        icon: "fab fa-telegram"
       - url: t.me/athen
         icon: "fab fa-telegram"
       - url: https://alipay.comm
