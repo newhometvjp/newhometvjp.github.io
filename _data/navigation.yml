@@ -9,7 +9,7 @@
 
 # English (default)
 # -----------------
-en: &DEFAULT_EN
+ja: &DEFAULT_JA
   nav:
     - title: "Home"
       url: https://newhometv.github.io
