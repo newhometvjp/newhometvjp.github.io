@@ -24,7 +24,7 @@ ja: &DEFAULT_JA
     - title: "Team"
       url: https://newhometv.github.io/#team
     - title: "ダウンロード"
-      url: https://newhometv.github.io
+      url: https://newhometv.github.io/#clients
     - title: "お問い合わせ"
       url: https://newhometv.github.io/#contact
     - title: "番組表"
