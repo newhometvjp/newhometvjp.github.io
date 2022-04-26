@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: 1年(365日)視聴分
+subtitle: RMB 2399
 image: assets/img/portfolio/04-full.jpg
-alt: 
+alt:
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: 1年(365日)視聴分
+  subtitle: RMB 2399
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+1年(365日)の視聴分です。
+
+初めてご購入の方は、1週間のお試し期間があります（365日+7日）。
 
 {:.list-inline}
 - Date: October 2019
 - Client: Lines
 - Category: Branding
-
