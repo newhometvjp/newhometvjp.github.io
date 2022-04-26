@@ -14,7 +14,7 @@ ja: &DEFAULT_JA
     - title: "ホーム"
       url: https://newhometv.github.io
     - title: "製品説明"
-      url: https://newhometv.github.io/#services
+      url: https://newhometv.github.io
     - title: "価格"
       url: https://newhometv.github.io/#portfolio
     - title: "私たちに関しては"
