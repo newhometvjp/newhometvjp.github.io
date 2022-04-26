@@ -41,4 +41,4 @@ markdown: kramdown
 formspree_form_path: "f/mlezojlz"
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-remote-them
