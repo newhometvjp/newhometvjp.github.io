@@ -61,17 +61,17 @@ ja: &DEFAULT_JA
       - title: "Androidの適応"
         year: "2014"
         desc: "あらゆる種類のAndroid機器に幅広く適応!"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/2.;ng
         alt:
       - title: "iOSの適応"
         year: "2019"
         desc: "(iOSのみ7日間録画)！iPhone/iPadの適応"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/3.png
         alt:
       - title: "Windows/Macの適応"
         year: "2021"
         desc: "30日録画! Windows/Macの適応"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/4.png
         alt:
         # you can enforce the alignment
         align: right
