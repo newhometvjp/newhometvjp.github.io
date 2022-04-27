@@ -61,7 +61,7 @@ ja: &DEFAULT_JA
       - title: "Androidの適応"
         year: "2014"
         desc: "あらゆる種類のAndroid機器に幅広く適応!"
-        image: assets/img/timeline/2.;ng
+        image: assets/img/timeline/2.png
         alt:
       - title: "iOSの適応"
         year: "2019"
