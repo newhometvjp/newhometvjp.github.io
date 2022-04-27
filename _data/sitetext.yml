@@ -85,6 +85,7 @@ ja: &DEFAULT_JA
 
   clients:
     title: "ダウンロード"
+    text: "対応するアイコンをクリックしてダウンロードします"
     section: clients
     max-height: 150px
     horizontal-scrolling: "" #"yes/no"
