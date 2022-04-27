@@ -9,7 +9,7 @@
 
 # English (default)
 # -----------------
-ja: &DEFAULT_JA
+zh: &DEFAULT_ZH_HANS
   nav:
     - title: "ホーム"
       url: https://newhometv.github.io
@@ -21,7 +21,7 @@ ja: &DEFAULT_JA
       url: https://newhometv.github.io/#about
     - title: "じかんじく"
       url: https://newhometv.github.io/#timeline
-    - title: "Team"
+    - title: "試用版を入手"
       url: https://newhometv.github.io/#team
     - title: "ダウンロード"
       url: https://newhometv.github.io/#clients
@@ -29,8 +29,10 @@ ja: &DEFAULT_JA
       url: https://newhometv.github.io/#contact
     - title: "番組表"
       url: https://newhometv.github.io/channel-list
-ja-JP:
-  <<: *DEFAULT_JA
+    - title: "日本語"
+      url: https://newhometv.github.io
+zh-CN:
+  <<: *DEFAULT_ZH_HANS
 # en-US:
 #  <<: *DEFAULT_EN
 # en-CA:
