@@ -22,7 +22,7 @@ email      : info@newhome.club #this is also the email contact forms will go to
 description: "Newhome Japan TV - 海外で日本のネットテレビ"
 author     : Newhome
 logo:     #optional, defaults to site title
-  path: favicon.ico
+  path: newhomelogo.png
   height: 52 #height in px, defaults to 52px
 
 locale: "ja-JP"
