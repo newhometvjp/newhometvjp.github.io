@@ -12,25 +12,25 @@
 ja: &DEFAULT_JA
   nav:
     - title: "ホーム"
-      url: https://newhometv.github.io
+      url: https://newhome.club
     - title: "製品説明"
-      url: https://newhometv.github.io/#services
+      url: https://newhome.club/#services
     - title: "価格"
-      url: https://newhometv.github.io/#portfolio
+      url: https://newhome.club/#portfolio
     - title: "私たちに関しては"
-      url: https://newhometv.github.io/#about
+      url: https://newhome.club/#about
     - title: "じかんじく"
-      url: https://newhometv.github.io/#timeline
+      url: https://newhome.club/#timeline
     - title: "試用版を入手"
-      url: https://newhometv.github.io/#team
+      url: https://newhome.club/#team
     - title: "ダウンロード"
-      url: https://newhometv.github.io/#clients
+      url: https://newhome.club/#clients
     - title: "お問い合わせ"
-      url: https://newhometv.github.io/#contact
+      url: https://newhome.club/#contact
     - title: "番組表"
-      url: https://newhometv.github.io/channel-list
+      url: https://newhome.club/channel-list
     - title: "中文"
-      url: https://newhometv.github.io/cn
+      url: https://newhome.club/cn
 ja-JP:
   <<: *DEFAULT_JA
 # en-US:
