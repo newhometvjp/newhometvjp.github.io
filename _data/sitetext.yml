@@ -112,7 +112,7 @@ ja: &DEFAULT_JA
     people:
       - name: "WeChat"
         role: ""
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.jpg
       - name: "Line"
         role: ""
         image: assets/img/team/2.jpg
