@@ -21,7 +21,7 @@ ja: &DEFAULT_JA
       url: https://newhometv.github.io/#about
     - title: "じかんじく"
       url: https://newhometv.github.io/#timeline
-    - title: "Team"
+    - title: "繋がり営業担当"
       url: https://newhometv.github.io/#team
     - title: "ダウンロード"
       url: https://newhometv.github.io/#clients
@@ -29,6 +29,8 @@ ja: &DEFAULT_JA
       url: https://newhometv.github.io/#contact
     - title: "番組表"
       url: https://newhometv.github.io/channel-list
+    - title: "中文"
+      url: https://newhometv.github.io/cn
 ja-JP:
   <<: *DEFAULT_JA
 # en-US:
