@@ -56,7 +56,7 @@ ja: &DEFAULT_JA
       - title: "事業開発"
         year: "2009-2010"
         desc: "特殊機器事業展開!スムーズな生放送、高品質な画像!"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/1.png
         alt:
       - title: "Androidの適応"
         year: "2014"
