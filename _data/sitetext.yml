@@ -86,12 +86,13 @@ ja: &DEFAULT_JA
   clients:
     title: "ダウンロード"
     section: clients
-    max-height: 270px
+    max-height: 150px
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Android"
         url: https://ghproxy.com/https://github.com/newhometv/newhometv.github.io/releases/download/newhome-v2.0/Newhome_V2.apk
         logo: assets/img/clients/androidlogo.png
+        button: "ダウンロード"
       - title: "iOS"
         url: https://apps.apple.com/us/app/id1287070962
         logo: assets/img/clients/ioslogo.png
