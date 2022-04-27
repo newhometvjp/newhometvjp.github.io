@@ -1,0 +1,41 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+ja: &DEFAULT_JA
+  nav:
+    - title: "ホーム"
+      url: https://newhometv.github.io
+    - title: "製品説明"
+      url: https://newhometv.github.io/#services
+    - title: "価格"
+      url: https://newhometv.github.io/#portfolio
+    - title: "私たちに関しては"
+      url: https://newhometv.github.io/#about
+    - title: "じかんじく"
+      url: https://newhometv.github.io/#timeline
+    - title: "Team"
+      url: https://newhometv.github.io/#team
+    - title: "ダウンロード"
+      url: https://newhometv.github.io/#clients
+    - title: "お問い合わせ"
+      url: https://newhometv.github.io/#contact
+    - title: "番組表"
+      url: https://newhometv.github.io/channel-list
+ja-JP:
+  <<: *DEFAULT_JA
+# en-US:
+#  <<: *DEFAULT_EN
+# en-CA:
+#  <<: *DEFAULT_EN
+# en-GB:
+#  <<: *DEFAULT_EN
+# en-AU:
+#  <<: *DEFAULT_EN
