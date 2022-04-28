@@ -11,23 +11,23 @@
 # -----------------
 zh: &DEFAULT_ZH_HANS
   nav:
-    - title: "ホーム"
-      url: https://newhometv.github.io
-    - title: "製品説明"
-      url: https://newhometv.github.io/#services
-    - title: "価格"
-      url: https://newhometv.github.io/#portfolio
-    - title: "私たちに関しては"
-      url: https://newhometv.github.io/#about
-    - title: "じかんじく"
-      url: https://newhometv.github.io/#timeline
-    - title: "試用版を入手"
+    - title: "首页"
+      url: https://newhometv.club
+    - title: "产品説明"
+      url: https://newhometv.club/#services
+    - title: "价格"
+      url: https://newhometv.club/#portfolio
+    - title: "关于我们"
+      url: https://newhometv.club/#about
+    - title: "发展历程"
+      url: https://newhometv.club/#timeline
+    - title: "申请试用"
       url: https://newhometv.github.io/#team
-    - title: "ダウンロード"
+    - title: "下载"
       url: https://newhometv.github.io/#clients
-    - title: "お問い合わせ"
+    - title: "联系我们"
       url: https://newhometv.github.io/#contact
-    - title: "番組表"
+    - title: "节目表"
       url: https://newhometv.github.io/channel-list
     - title: "日本語"
       url: https://newhometv.github.io
