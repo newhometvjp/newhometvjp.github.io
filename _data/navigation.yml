@@ -29,8 +29,6 @@ ja: &DEFAULT_JA
       url: https://newhome.club/#contact
     - title: "番組表"
       url: https://newhome.club/channel-list
-    - title: "中文"
-      url: https://newhome.club/cn
 ja-JP:
   <<: *DEFAULT_JA
 # en-US:
@@ -41,3 +39,25 @@ ja-JP:
 #  <<: *DEFAULT_EN
 # en-AU:
 #  <<: *DEFAULT_EN
+zh: &DEFAULT_ZH_HANS
+  nav:
+    - title: "首页"
+      url: https://newhome.club
+    - title: "产品介绍"
+      url: https://newhome.club/#services
+    - title: "价格"
+      url: https://newhome.club/#portfolio
+    - title: "关于我们"
+      url: https://newhome.club/#about
+    - title: "发展历程"
+      url: https://newhome.club/#timeline
+    - title: "申请试用"
+      url: https://newhome.club/#team
+    - title: "下载"
+      url: https://newhome.club/#clients
+    - title: "联系我们"
+      url: https://newhome.club/#contact
+    - title: "节目单"
+      url: https://newhome.club/channel-list
+zh-CN:
+  <<: *DEFAULT_ZH_HANS
