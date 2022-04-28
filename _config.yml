@@ -42,3 +42,4 @@ formspree_form_path: "f/mlezojlz"
 
 plugins:
   - jekyll-remote-them
+  - jekyll-sitemap
