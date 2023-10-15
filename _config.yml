@@ -17,9 +17,9 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://www.new-home.tv" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : New Home Japan TV APP | 海外で日本のテレビ
+title      : New Home Japan TV APP
 email      : info@new-home.tv #this is also the email contact forms will go to
-description: "海外で日本のテレビを見られるネットテレビサービス、NEW HOME TV。Mac/Windows/iOS/Android専用アプリあり"
+description: "海外で日本のテレビを見られるネットテレビサービス、NEW HOME TV APP。Mac/Windows/iOS/Android専用アプリあり"
 author     : Newhome
 logo:     #optional, defaults to site title
   path: newhomelogo.png
