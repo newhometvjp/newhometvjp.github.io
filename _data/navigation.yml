@@ -12,23 +12,23 @@
 ja: &DEFAULT_JA
   nav:
     - title: "ホーム"
-      url: https://newhome.club
+      url: https://www.new-home.tv
     - title: "製品説明"
-      url: https://newhome.club/#services
+      url: https://www.new-home.tv/#services
     - title: "価格"
-      url: https://newhome.club/#portfolio
+      url: https://www.new-home.tv/#portfolio
     - title: "私たちに関しては"
-      url: https://newhome.club/#about
+      url: https://www.new-home.tv/#about
     - title: "じかんじく"
-      url: https://newhome.club/#timeline
+      url: https://www.new-home.tv/#timeline
     - title: "試用版を入手"
-      url: https://newhome.club/#team
+      url: https://www.new-home.tv/#team
     - title: "ダウンロード"
-      url: https://newhome.club/#clients
+      url: https://www.new-home.tv/#clients
     - title: "お問い合わせ"
-      url: https://newhome.club/#contact
+      url: https://www.new-home.tv/#contact
     - title: "番組表"
-      url: https://newhome.club/channel-list
+      url: https://www.new-home.tv/channel-list
 ja-JP:
   <<: *DEFAULT_JA
 # en-US:
@@ -42,22 +42,22 @@ ja-JP:
 zh: &DEFAULT_ZH_HANS
   nav:
     - title: "首页"
-      url: https://newhome.club
+      url: https://www.new-home.tv
     - title: "产品介绍"
-      url: https://newhome.club/#services
+      url: https://www.new-home.tv/#services
     - title: "价格"
-      url: https://newhome.club/#portfolio
+      url: https://www.new-home.tv/#portfolio
     - title: "关于我们"
-      url: https://newhome.club/#about
+      url: https://www.new-home.tv/#about
     - title: "发展历程"
-      url: https://newhome.club/#timeline
+      url: https://www.new-home.tv/#timeline
     - title: "申请试用"
-      url: https://newhome.club/#team
+      url: https://www.new-home.tv/#team
     - title: "下载"
-      url: https://newhome.club/#clients
+      url: https://www.new-home.tv/#clients
     - title: "联系我们"
-      url: https://newhome.club/#contact
+      url: https://www.new-home.tv/#contact
     - title: "节目单"
-      url: https://newhome.club/channel-list
+      url: https://www.new-home.tv/channel-list
 zh-CN:
   <<: *DEFAULT_ZH_HANS
